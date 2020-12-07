@@ -1,0 +1,4 @@
+source,sink,edge,job
+Alice,Bob,likes,Scientist
+Bob,Charlie,dislikes,Historian
+Charlie,Alice,likes,Engineer

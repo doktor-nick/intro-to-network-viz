@@ -1,0 +1,7 @@
+source,sink,edge_property,nodes,node_property
+a,b,1,a,10
+b,c,2,b,20
+c,d,3,c,30
+d,a,4,d,40
+e,a,5,e,50
+e,d,6,,

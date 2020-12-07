@@ -1,0 +1,7 @@
+source,target,edge_property,src_node_property
+a,b,1,Control
+b,c,2,Control
+c,d,3,Test
+d,a,4,Control
+e,a,5,Test
+e,d,6,Test
