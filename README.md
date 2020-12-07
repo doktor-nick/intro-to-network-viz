@@ -20,12 +20,11 @@ Workshop topics covered will include:
 * the Cytoscape App manager for extending Cytoscape’s capabilities
 * Cytoscape’s Network Analyser for easy statistics generation and analysis of your networks
 * exporting high resolution images for publication, and
-* getting help when you are stuck at UQ’s Hacky Hour and online forums.
+* getting help when you are stuck
 * If there is time, we may also cover sub-sampling, aggregation and pruning as approaches to making sense of “hairballs”.
 
 Examples used will include the classic sociograms of Moreno—describing the changing social relations between schoolchildren, visualising co-publication networks generated from Scopus literature searches, and protein interaction networks.
 
-We also encourage attendees to bring their own networks and problems for visualisation. Please contact Nick or Oliver before the workshop if you have some data you would like to bring.
 
 At the end of this workshop, you will know how to:
 * easily describe networks in simple file formats
